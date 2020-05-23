@@ -16,4 +16,7 @@ This is a simple text editor coded in Java using AWT. The buttons perform functi
 	B:To make the whole document Bold 
 	I:To make the whole document Italics
 	N:To remove Bold/Italics from the text and make it Normal
+	Find:To find a word in the document
+	Replace:To replace the first occurence of the word found with the word you want to replace it with
+	Replace All:To replace all the occurences of the word with the word you want to replace it with
 	Exit:To close the application without saving
